@@ -1,0 +1,8 @@
+[
+    { "_id": 1, "name": "Cake" },
+    { "_id": 2, "name": "No-Bake" },
+    { "_id": 3, "name": "Vegetarian" },
+    { "_id": 4, "name": "Vegan" },
+    { "_id": 5, "name": "Gluten-Free" },
+    { "_id": 6, "name": "Japanese" }
+  ]

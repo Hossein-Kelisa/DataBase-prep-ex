@@ -1,0 +1,25 @@
+[
+    {
+      "_id": 1,
+      "name": "No-Bake Cheesecake",
+      "description": "Delicious no-bake cheesecake",
+      "isVegetarian": true,
+      "isVegan": false,
+      "categories": [1, 2, 3],
+      "ingredients": [
+        { "name": "Condensed milk", "quantity": "1 can" },
+        { "name": "Cream Cheese", "quantity": "200g" },
+        { "name": "Lemon Juice", "quantity": "50ml" },
+        { "name": "Pie Crust", "quantity": "1 crust" },
+        { "name": "Cherry Jam", "quantity": "100g" }
+      ],
+      "steps": [
+        { "stepOrder": 1, "description": "Beat Cream Cheese" },
+        { "stepOrder": 2, "description": "Add condensed Milk and blend" },
+        { "stepOrder": 3, "description": "Add Lemon Juice and blend" },
+        { "stepOrder": 4, "description": "Add the mix to the pie crust" },
+        { "stepOrder": 5, "description": "Spread the Cherry Jam" },
+        { "stepOrder": 6, "description": "Place in refrigerator for 3 hours" }
+      ]
+    }
+  ]
